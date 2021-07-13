@@ -1,0 +1,9 @@
+input {
+    width: 4em;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+  
+#gpa-display {
+    color: #E84A27;
+}
